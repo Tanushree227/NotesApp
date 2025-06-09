@@ -4,3 +4,12 @@
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.container
+{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #003459, #0fa3b1);
+    color: aliceblue;
+    padding-top: 4%;
+    padding-left: 10%;
+}
